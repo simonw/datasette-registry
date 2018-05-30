@@ -11,7 +11,13 @@
                 },
                 "licenses": {
                     "label_column": "license"
-                }
+                },
+                "databases": {
+                    "label_column": "name"
+                },
+                "tables": {
+                    "label_column": "name"
+                },
             }
         }
     }
