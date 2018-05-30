@@ -1,0 +1,25 @@
+[{
+    "title": "Global Power Plants Database",
+    "url": "https://global-power-plants.datasettes.com/",
+    "about_url": "https://github.com/simonw/global-power-plants-datasette",
+    "tags": ["geospatial"]
+}, {
+    "title": "UK Register of Members Interests",
+    "url": "https://register-of-members-interests.datasettes.com/",
+    "about_url": "https://simonwillison.net/2018/Apr/25/register-members-interests/",
+    "tags": ["politics", "uk"]
+}, {
+    "title": "San Francisco Open Data",
+    "url": "https://san-francisco.datasettes.com/",
+    "tags": ["san-francisco", "usa", "government"]
+}, {
+    "title": "VICE News Police Shootings",
+    "url": "https://vice-police-shootings.now.sh/",
+    "about_url": "https://gist.github.com/simonw/6785c842e6b0849aee3a9b1ef59d492e",
+    "tags": ["news"]
+}, {
+    "title": "Lahman’s Baseball Database",
+    "url": "https://baseballdb.lawlesst.net/",
+    "about_url": "http://lawlesst.github.io/notebook/baseball-datasette.html",
+    "tags": ["sports", "baseball"]
+}]
