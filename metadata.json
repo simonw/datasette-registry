@@ -1,0 +1,6 @@
+{
+	"title": "Datasette Registry",
+	"description": "A registry of Datasette instances",
+	"source": "simonw/datasette-registry",
+	"source_url": "https://github.com/simonw/datasette-registry"
+}
