@@ -9,4 +9,6 @@ before_script:
 - pip install pytest
 - pip install requests
 script: pytest && python build_database.py
-after_script: now --token=$NOW_TOKEN && now alias --token=$NOW_TOKEN
+after_script:
+- now --token=$NOW_TOKEN
+- now alias --token=$NOW_TOKEN
