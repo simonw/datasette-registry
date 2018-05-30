@@ -1,6 +1,18 @@
 {
-	"title": "Datasette Registry",
-	"description": "A registry of Datasette instances",
-	"source": "simonw/datasette-registry",
-	"source_url": "https://github.com/simonw/datasette-registry"
+    "title": "Datasette Registry",
+    "description": "A registry of Datasette instances",
+    "source": "simonw/datasette-registry",
+    "source_url": "https://github.com/simonw/datasette-registry",
+    "databases": {
+        "registry": {
+            "tables": {
+                "sources": {
+                    "label_column": "source"
+                },
+                "licenses": {
+                    "label_column": "license"
+                }
+            }
+        }
+    }
 }
