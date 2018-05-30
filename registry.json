@@ -22,4 +22,11 @@
     "url": "https://baseballdb.lawlesst.net/",
     "about_url": "http://lawlesst.github.io/notebook/baseball-datasette.html",
     "tags": ["sports", "baseball"]
+}, {
+    "title": "FiveThirtyEight",
+    "url": "https://fivethirtyeight.datasettes.com/"
+}, {
+    "title": "Timezones API",
+    "url": "https://timezones-api.now.sh/",
+    "about_url": "https://simonwillison.net/2017/Dec/12/location-time-zone-api/"
 }]
