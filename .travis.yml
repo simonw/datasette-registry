@@ -5,6 +5,7 @@ branches:
   only:
     - master
 before_script:
+- npm install -g now
 - pip install conformity
 - pip install pytest
 - pip install requests
