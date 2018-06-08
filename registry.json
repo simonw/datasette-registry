@@ -33,4 +33,9 @@
     "title": "The Metropolitan Museum of Art Open Access",
     "url": "https://metmuseum.datasettes.com/",
     "tags": ["museums", "art", "nyc"]
+}, {
+    "title": "IPNI plant names",
+    "url": "https://ipni.sloppy.zone/",
+    "about_url": "https://twitter.com/rdmpage/status/1005121822273277952",
+    "tags": ["nature"]
 }]
