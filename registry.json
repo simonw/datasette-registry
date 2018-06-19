@@ -38,4 +38,8 @@
     "url": "https://ipni.sloppy.zone/",
     "about_url": "https://twitter.com/rdmpage/status/1005121822273277952",
     "tags": ["nature"]
+}, {
+    "title": "Wireless Telegraphy Register",
+    "url": "https://wtr-api.herokuapp.com/",
+    "tags": ["uk"]
 }]
