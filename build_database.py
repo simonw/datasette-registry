@@ -45,12 +45,16 @@ def build_database(filename, registry):
         except Exception as e:
             print(url, e)
             metadata = {}
+        if metadata.get('error'):
+            metadata = {}
         try:
             inspect = requests.get(
                 urllib.parse.urljoin(url, '/-/inspect.json')
             ).json()
         except Exception as e:
             print(url, e)
+        if inspect.get('error'):
+            print(url, inspect)
             inspect = {}
         cursor.execute('''
             INSERT INTO datasettes (
