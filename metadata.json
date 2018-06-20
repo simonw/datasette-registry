@@ -17,6 +17,9 @@
                 },
                 "tables": {
                     "label_column": "name"
+                },
+                "datasettes": {
+                    "label_column": "title"
                 }
             }
         }
