@@ -42,4 +42,8 @@
     "title": "Wireless Telegraphy Register",
     "url": "https://wtr-api.herokuapp.com/",
     "tags": ["uk"]
+}, {
+    "title": "Datasette Registry",
+    "url": "https://registry.datasette.io/",
+    "tags": ["datasette"]
 }]
