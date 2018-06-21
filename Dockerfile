@@ -1,8 +1,8 @@
 FROM python:3.6-slim-stretch
 RUN apt-get update
 RUN apt-get install -y python3-dev gcc git
-RUN pip install datasette
 ADD registry.db .
+RUN pip install datasette
 ADD metadata.json .
 RUN datasette inspect registry.db --inspect-file inspect-data.json
 
