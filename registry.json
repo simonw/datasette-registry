@@ -46,4 +46,8 @@
     "title": "Datasette Registry",
     "url": "https://registry.datasette.io/",
     "tags": ["datasette"]
-}]
+}, {
+    "title": "Ministry of Defence MERLIN Vehicle Database",
+    "url": "http://mod-merlin.herokuapp.com/",
+    "tags": ["uk", "military"]
+}
