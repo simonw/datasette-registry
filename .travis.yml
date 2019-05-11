@@ -12,4 +12,4 @@ before_script:
 script: pytest && python build_database.py
 after_script:
 - now --token=$NOW_TOKEN
-- now alias --token=$NOW_TOKEN
+- now --target production --token=$NOW_TOKEN
