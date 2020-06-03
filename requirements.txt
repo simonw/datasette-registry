@@ -1,3 +1,5 @@
 conformity
 pytest
 requests
+datasette
+datasette-publish-now
