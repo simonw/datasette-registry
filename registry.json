@@ -13,12 +13,7 @@
     "url": "https://san-francisco.datasettes.com/",
     "tags": ["san-francisco", "usa", "government"]
 }, {
-    "title": "VICE News Police Shootings",
-    "url": "https://vice-police-shootings.now.sh/",
-    "about_url": "https://gist.github.com/simonw/6785c842e6b0849aee3a9b1ef59d492e",
-    "tags": ["news"]
-}, {
-    "title": "Lahman’s Baseball Database",
+    "title": "Lahman's Baseball Database",
     "url": "https://baseballdb.lawlesst.net/",
     "about_url": "http://lawlesst.github.io/notebook/baseball-datasette.html",
     "tags": ["sports", "baseball"]
@@ -27,27 +22,14 @@
     "url": "https://fivethirtyeight.datasettes.com/"
 }, {
     "title": "Timezones API",
-    "url": "https://timezones-api.now.sh/",
+    "url": "https://timezones.datasette.io/",
     "about_url": "https://simonwillison.net/2017/Dec/12/location-time-zone-api/"
 }, {
     "title": "The Metropolitan Museum of Art Open Access",
     "url": "https://metmuseum.datasettes.com/",
     "tags": ["museums", "art", "nyc"]
 }, {
-    "title": "IPNI plant names",
-    "url": "https://ipni.sloppy.zone/",
-    "about_url": "https://twitter.com/rdmpage/status/1005121822273277952",
-    "tags": ["nature"]
-}, {
-    "title": "Wireless Telegraphy Register",
-    "url": "https://wtr-api.herokuapp.com/",
-    "tags": ["uk"]
-}, {
     "title": "Datasette Registry",
     "url": "https://registry.datasette.io/",
     "tags": ["datasette"]
-}, {
-    "title": "Ministry of Defence MERLIN Vehicle Database",
-    "url": "http://mod-merlin.herokuapp.com/",
-    "tags": ["uk", "military"]
 }]
