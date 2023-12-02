@@ -2,4 +2,4 @@ conformity
 pytest
 requests
 datasette
-datasette-publish-now
+datasette-publish-vercel
