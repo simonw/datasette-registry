@@ -13,12 +13,7 @@
     "url": "https://san-francisco.datasettes.com/",
     "tags": ["san-francisco", "usa", "government"]
 }, {
-    "title": "VICE News Police Shootings",
-    "url": "https://vice-police-shootings.now.sh/",
-    "about_url": "https://gist.github.com/simonw/6785c842e6b0849aee3a9b1ef59d492e",
-    "tags": ["news"]
-}, {
-    "title": "Lahman’s Baseball Database",
+    "title": "Lahman's Baseball Database",
     "url": "https://baseballdb.lawlesst.net/",
     "about_url": "http://lawlesst.github.io/notebook/baseball-datasette.html",
     "tags": ["sports", "baseball"]
@@ -27,27 +22,76 @@
     "url": "https://fivethirtyeight.datasettes.com/"
 }, {
     "title": "Timezones API",
-    "url": "https://timezones-api.now.sh/",
+    "url": "https://timezones.datasette.io/",
     "about_url": "https://simonwillison.net/2017/Dec/12/location-time-zone-api/"
 }, {
     "title": "The Metropolitan Museum of Art Open Access",
     "url": "https://metmuseum.datasettes.com/",
     "tags": ["museums", "art", "nyc"]
 }, {
-    "title": "IPNI plant names",
-    "url": "https://ipni.sloppy.zone/",
-    "about_url": "https://twitter.com/rdmpage/status/1005121822273277952",
-    "tags": ["nature"]
-}, {
-    "title": "Wireless Telegraphy Register",
-    "url": "https://wtr-api.herokuapp.com/",
-    "tags": ["uk"]
-}, {
     "title": "Datasette Registry",
     "url": "https://registry.datasette.io/",
     "tags": ["datasette"]
 }, {
-    "title": "Ministry of Defence MERLIN Vehicle Database",
-    "url": "http://mod-merlin.herokuapp.com/",
-    "tags": ["uk", "military"]
+    "title": "COVID-19 cases, using data from Johns Hopkins CSSE, the New York Times and the LA Times",
+    "url": "https://covid-19.datasettes.com",
+    "about_url": "https://github.com/simonw/covid-19-datasette",
+    "tags": ["public-health", "covid-19"]
+}, {
+    "title": "The Foreign Agents Registration Act",
+    "url": "https://fara.datasettes.com/",
+    "about_url": "https://simonwillison.net/2020/Jan/21/github-actions-cloud-run/"
+}, {
+    "title": "SBA Paycheck Protection Program Loan Data",
+    "url": "https://sba-loans-covid-19.datasettes.com/",
+    "about_url": "https://simonwillison.net/2020/Jul/9/sba-covid-19-ppp-loans/",
+    "tags": ["covid-19", "government"]
+}, {
+    "title": "United States members of congress",
+    "url": "https://congress-legislators.datasettes.com/",
+    "about_url": "https://github.com/simonw/congress-legislators-datasette",
+    "tags": ["government"]
+}, {
+    "title": "San Francisco Microscopical Society Archive",
+    "url": "https://archive.sfmicrosociety.org/",
+    "about_url": "https://simonwillison.net/2022/Aug/25/sfms-archive/"
+}, {
+    "title": "California Protected Areas",
+    "url": "https://calands.datasettes.com/",
+    "about_url": "https://simonwillison.net/2020/Aug/28/weeknotes-cpad/",
+    "tags": ["geospatial"]
+}, {
+    "title": "github-to-sqlite with GraphQL",
+    "url": "https://github-to-sqlite.dogsheep.net/",
+    "about_url": "https://github.com/dogsheep/github-to-sqlite"
+}, {
+    "title": "LAION-Aesthetics v2 6+",
+    "url": "https://laion-aesthetic.datasette.io/",
+    "about_url": "https://simonwillison.net/2022/Sep/5/laion-aesthetics-weeknotes/",
+    "tags": ["ai"]
+}, {
+    "title": "datasette.io",
+    "url": "https://datasette.io/",
+    "about_url": "https://simonwillison.net/2020/Dec/13/datasette-io/",
+    "tags": ["websites", "templated", "datasette"]
+}, {
+    "title": "Niche Museums",
+    "url": "https://www.niche-museums.com/",
+    "about_url": "https://simonwillison.net/2019/Nov/25/niche-museums/",
+    "tags": ["websites", "templated"]
+}, {
+    "title": "Simon Willison: TIL",
+    "url": "https://til.simonwillison.net/",
+    "about_url": "https://github.com/simonw/til",
+    "tags": ["websites", "templated"]
+}, {
+    "title": "Rocky Beaches",
+    "url": "https://www.rockybeaches.com/us/pillar-point",
+    "about_url": "https://github.com/natbat/rockybeaches",
+    "tags": ["websites", "templated"]
+}, {
+    "title": "ScotRail announcements",
+    "url": "https://scotrail.datasette.io/",
+    "about_url": "https://simonwillison.net/2022/Aug/21/scotrail/",
+    "tags": []
 }]
