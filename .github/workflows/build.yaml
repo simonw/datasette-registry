@@ -29,14 +29,10 @@ jobs:
     - name: Run tests and build database
       run: |-
         pytest && python build_database.py
-    - name: Setup Node.js
-      uses: actions/setup-node@v1
-      with:
-        node-version: '12.x'
     - name: Deploy Datasette using Zeit Now
       env:
         NOW_TOKEN: ${{ secrets.NOW_TOKEN }}
       run: |-
-        datasette publish now registry.db \
+        datasette publish vercel registry.db \
           --token $NOW_TOKEN \
           --project datasette-registry
